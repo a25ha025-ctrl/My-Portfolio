@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 Check out my personal portfolio website to learn more about me, my skills, and my projects.
 
-👉 **[Visit My Portfolio Website](file:///C:/Users/user/Desktop/MyPortfolio/index.html)**
+👉 **[Visit My Portfolio Website]( https://a25ha025-ctrl.github.io/My-Portfolio/)**
 
 ## 🛠️ Skills
 - HTML5
